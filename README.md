@@ -32,5 +32,5 @@ The following table lists the configurable parameters for the module with their 
 | apiserver_url_VV             | aks server url                                     |          | string  | Yes      |
 | resourcegroup_id_VV          | resource group id                                  |          | string  | Yes      |
 | cluster_name_VV              | name of aks cluster name                           |          | string  | Yes      |
-| 
+
 ---
